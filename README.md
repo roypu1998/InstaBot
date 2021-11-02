@@ -1,4 +1,4 @@
-# pyInstaBot
+# InstaBot
 
 Hello everyone,
 This script will give you the option to create an Instagram bot that can send a message to a user or several users at the same time.
